@@ -61,5 +61,3 @@ Three Decision Tree models were trained:
 
 ---
 
-
-python src/predict.py
